@@ -29,7 +29,7 @@ export function Header() {
       <div className="flex items-center pl-3 sm:pl-4 lg:pl-6">
         <Link to="/" className="flex items-center">
           <img
-            src="public/logo_oc.png"
+            src="/logo_oc.png"
             alt="The Organiser Castech Pvt. Ltd."
             className="h-32 w-auto object-contain"
           />
